@@ -13,34 +13,35 @@
 // Betabotz = digunakan hampir di semua fitur kecuali linkshort
 // Botcahx  = digunakan untuk linkshort saja
 
-global.owner = ['6285842647866']  
-global.mods = ['6285842647866'] 
-global.prems = ['6285842647866']
-global.nameowner = 'Lann'
-global.numberowner = '6285842647866' 
+global.owner = ['62838303802015']  
+global.mods = ['62838303802015'] 
+global.prems = ['62838303802015']
+global.nameowner = 'OnlyAzka'
+global.numberowner = '62838303802015' 
 global.mail = 'fxacbapi.my.id@gmail.com' 
-global.dana = '6281395861695'
-global.pulsa = '6281395861695'
-global.gopay = '6281395861695'
-global.namebot = 'BETABOTZ-MD'
+global.dana = '62838303802015'
+global.pulsa = '62838303802015'
+global.gopay = '62838303802015'
+global.namebot = 'ΛZKΛ-MD'
 global.gc = 'https://chat.whatsapp.com/G4f1fTpz9zL4EH3FyIcaPR'
 global.web = 'https://github.com/BOTCAHX'
 global.instagram = 'https://instagram.com/prm2.0'
 global.wm = 'Beta BOT-MD'
 global.watermark = wm
-global.wm2 = '⫹⫺ Beta Bot'
-global.wm3 = '© Lann'
-global.wm4 = 'made by BetaBotz-MD'
+global.wm2 = '⫹⫺ A17 Bot'
+global.wm3 = '© onlyAzka'
+global.wm4 = 'made by ΛZKΛ-MD'
 global.wait = '_*Tunggu sedang di proses...*_'
 global.eror = '_*Server Error*_'
 global.benar = 'Benar ✅\n'
 global.salah = 'Salah ❌\n'
 global.stiker_wait = '*⫹⫺ Stiker sedang dibuat...*'
 global.packname = 'Made with'
-global.author = 'Bot WhatsApp'
+global.author = 'Bot +62-838-3080-2015
+  ig : @Azkaazhrzlva'
 
 //---- image thumbnail 
-global.thumb = 'https://telegra.ph/file/ec75e8bd53238f11603d9.jpg'
+global.thumb = 'https://telegra.ph/file/d72b425a79de828ba89cd.jpg'
 
 //===> Apikey
 global.lann = 'Your_Key_Here' //isi apikey mu https://api.betabotz.org
